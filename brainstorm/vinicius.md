@@ -1,76 +1,52 @@
-# Brainstorm
+**Brainwriting — Site ACB**
 
-*Objetivo do site*
-1. Posicionar a ACB como referência em governança para PMEs
-2. Atrair associados e gerar leads
-3. Explicar governança de forma simples
 
-*Público*
-1. Donos de PME
-2. Executivos
-3. Conselheiros
-4. Investidores e estudantes
+**🏠 Home**
+- Hero com headline + CTA
+- Carrossel com os 5 últimos posts
+- Agenda de eventos
+- Widget de cotações em tempo real
+- Bloco institucional + depoimentos de membros
+- Feed de redes sociais
 
-*O que o site precisa ter*
-1. Explicação clara do que é governança
-2. Conteúdo útil (artigos, guias, casos reais)
-3. Página de serviços (consultoria, formação, etc.)
-4. Prova de credibilidade (depoimentos, empresas atendidas)
-5. CTA claro (associar, falar com especialista, fazer diagnóstico)
 
-*Diferencial*
-1. Mais prático e menos teórico
-2. Mostrar impacto real (resultado, crescimento, organização)
-3. Ter ferramentas interativas (ex: diagnóstico rápido)
+**📝 Blog / Newsletter**
+- Editor para membros publicarem artigos
+- Tags temáticas (Governança, ESG, Compliance, etc.)
+- Newsletter com digest semanal
+- Moderação antes de publicar
+- Perfil do autor visível em cada post
 
-# Mindmap simplificado
-Home
-├── Proposta clara + benefícios
-├── CTA
 
-Sobre
-├── Quem somos
-├── Missão
+**📈 Bolsa / Cotações**
+- API sugerida: Brapi.dev ou Yahoo Finance
+- Ticker animado no topo + cards com mini gráfico na home
+- Página dedicada "Mercado"
+- Fallback com última cotação caso a API falhe
 
-Governança
-├── O que é
-├── Por que importa
-├── Para PMEs
 
-Conteúdo
-├── Blog
-├── Guias
-├── Casos reais
+**👥 Associados**
+- "Em breve" com form de pré-cadastro
+- Diretório de membros com perfil e especialização
+- Conteúdo exclusivo para logados
+- Painel individual do associado
 
-Serviços
-├── Consultoria
-├── Formação
 
-Comunidade
-├── Eventos
-├── Networking
+**📬 Formulários e E-mails**
+- Form de contato com roteamento por assunto
+- Templates com identidade visual da ACB
+- Confirmação automática ao enviar
+- Inscrição em eventos + newsletter com double opt-in
 
-Associe-se
-Contato
 
-# 5W2H
-*What*
-Criar um site institucional moderno, com conteúdo e foco em conversão.
+**🎨 Visual**
+- Paleta: azul escuro, amarelo, cinza e preto
+- Logo mantida
+- Tipografia: Playfair Display + DM Sans
+- Referência de tom: jornal econômico sóbrio e acessível
 
-*Why*
-Ganhar autoridade, educar o mercado e atrair associados/clientes.
 
-*Who*
-Designer, dev, alguém de conteúdo e alinhamento com a ACB.
-
-*When*
-Algo entre 6 e 10 semanas.
-
-*Where*
-Site responsivo (desktop + mobile).
-
-*How*
-Começa com estrutura → design → desenvolvimento → testes → publicação.
-
-*How much*
-simples (institucional): barato
+**🗂️ Estrutura**
+- Menu: Home · Blog · Eventos · Mercado · Associados · Sobre · Contato
+- Mobile first e responsivo
+- SEO, acessibilidade básica e boa performance
