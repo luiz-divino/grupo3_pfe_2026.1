@@ -1,4 +1,4 @@
-# Brainstorm (ideias principais)
+# Brainstorm
 
 *Objetivo do site*
 1. Posicionar a ACB como referência em governança para PMEs
