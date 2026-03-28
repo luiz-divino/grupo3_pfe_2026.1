@@ -85,7 +85,7 @@
 |----------|-----------|
 | **What** (O quê?) | Redesign completo do site institucional da ACBrasil - Associação de Conselheiros do Brasil |
 | **Why** (Por quê?) | Site atual está desatualizado, com homepage vazia, sem destaque para eventos, sem dados financeiros e código difícil de manter |
-| **Who** (Quem?) | Grupo de 7 alunos do curso de front-end (João Pedro, Arthur, Vinícius, Becker, Pedro, Luiz e mais 2) |
+| **Who** (Quem?) | Grupo de 7 alunos do curso de front-end: Arthur, João Pedro, Luiz Fernando, Pedro Soares, Pedro Becker, Vinícius Lima e Antonio Damasceno |
 | **When** (Quando?) | 1º semestre de 2026 - entrega da AP1 (documentação) seguida de implementação |
 | **Where** (Onde?) | Site responsivo (desktop, tablet e mobile), hospedagem a definir |
 | **How** (Como?) | 1. Documentação (brainstorm, mindmap, 5W2H, doc de visão, Figma) → 2. Desenvolvimento front-end → 3. Testes → 4. Publicação |
