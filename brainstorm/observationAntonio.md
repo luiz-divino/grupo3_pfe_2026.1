@@ -14,7 +14,7 @@
 ### Problemas principais
 - Apresenta um pouco de lentidão ao passar os artigos que são expostos inicialmente.
 - Links de redirecionamento para "Webinars", "Mais artigos", "Seja um Associado".
-- Possui uma div de "[acb-newsletter]" que não possui compatibilidade em nenhum tipo de tela.
+- Possui uma div de "[acb-newsletter]" que não possui compatibilidade em nenhum tipo de tela e o texto fica a deriva na tela.
 
 ## [Quem somos](https://acbrasil.org.br/cms/quem-somos/)
 
@@ -39,6 +39,25 @@
 ## [Contato](https://acbrasil.org.br/cms/contato/)
 
 ### Problemas principais
-
+- Possui uma div de "[acb-contatos]" que não possui compatibilidade em nenhum tipo de tela e fica o texto a deriva na tela.
 
 ## [Associe-se a ACBrasil](https://acbrasil.org.br/cms/associe-se-a-acb/)
+
+### Problemas principais
+- Tem um vão gigante entre o header e o conteúdo da página
+- Não dá pra baixar o código de conduta
+- Os campos CPF, celular, Nascimento, CEP e Cidade não possuem nada para verificar se o número digitado é válido
+- Não é possível ler a Política de privacidade ao final do formulário
+
+## [LGPD | PROTEÇÃO DE DADOS PESSOAIS E PRIVACIDADE](https://acbrasil.org.br/cms/lgpd/)
+
+### Problemas principais
+- Não dá pra ler a Política de privacidade nem a política de Cookies
+- Essa página só é possível ser acessada pelo footer
+
+## [Newsletter ou Notícias](https://acbrasil.org.br/cms/c/noticias/newsletter/)
+
+### Problemas principais
+- A endereço de link que aparece no navegador como "Notícia" tem o mesmo conteúdo do endereço de "Newsletter"
+- Essa página só pode ser acessada ao entrar em algum artigo e clicar na parte abaixo do header que tem os links
+- Por mais que as letras sejam padronizadas, a fonte nos textos longos deveriam ser serifados para uma melhor fluidez na leitura
