@@ -22,4 +22,4 @@ Minhas observações:
 2. **Integração de Eventos e Multimídia:** Dar protagonismo à principal atividade da ACBrasil, destacando eventos diretamente na Homepage para aumentar a retenção.
 3. **Consumo Dinâmico de Conteúdo:** Reestruturar o acervo do blog e newsletters, implementando filtros por categorias e carregamento assíncrono para facilitar a busca por conhecimento técnico.
 4. **Otimização de Conversão:** Posicionar CTAs (Call to Actions) estratégicos para captação de leads e atração fluida de novos conselheiros associados.
-5. **Painel de Dados Financeiros:** Implementar o consumo de dados externos (via API) para exibir indicadores do mercado de capitais e cotações em tempo real, agregando valor diário para os usuários focados em investimentos e governança.
+5. **Painel de Dados Financeiros:** Implementar o consumo de dados externos (via API) para exibir indicadores do mercado de capitais e cotações em tempo real, agregando valor diário para os usuários focados em investimentos e governança
