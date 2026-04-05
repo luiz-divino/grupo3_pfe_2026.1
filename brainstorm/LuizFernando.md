@@ -19,4 +19,7 @@
     * *Navegação:* Botão "Mais artigos" (seção de Artigos Recentes).
     * *Conversão:* Botão "Seja um associado", abaixo da seção Artigos recentes.
 
+#### 🛠️ Erros de Implementação
+* **Falha de Renderização:** Exibição de texto estatico `[adc-newsletter]` abaixo da seção de associação, dessa forma, não apresentando nenhuma funcionalidade. 
+
 
