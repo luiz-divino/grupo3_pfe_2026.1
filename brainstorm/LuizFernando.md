@@ -11,6 +11,12 @@
 #### 🎨 Interface e Layout
 * **Sobreposição de Elementos:** Componentes visuais sobrepostos no canto inferior direito, prejudicando a estética e funcionamento dos elementos envolvidos.
 * **Quebra de Responsividade:** Falhas graves de adaptação em diferentes viewports, causando transbordamento lateral, desalinhamento de seções, quebras no menu de navegação
-* **Erro de Menu Mobile:** Exibição indevida da string `menu-associado` no desktop, onde deveria haver um menu funcional ou oculto.
+* **Erro de Menu Mobile:** Exibição indevida da string `menu-associado` no menu principal em tela desktop, tal string deveria está oculta visto que a mesma gera um menu de hambúrguer em telas mobiles.
+
+#### ⚙️ Funcionalidade e Navegação
+* **Links Quebrados (Erro 404):** Botões estratégicos direcionam para páginas inexistentes, são eles:
+    * *CTA:* Botão "Fique por dentro dos nossos webinars" (abaixo do carrossel de artigos).
+    * *Navegação:* Botão "Mais artigos" (seção de Artigos Recentes).
+    * *Conversão:* Botão "Seja um associado", abaixo da seção Artigos recentes.
 
 
