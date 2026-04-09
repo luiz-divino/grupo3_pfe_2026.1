@@ -41,6 +41,10 @@
 
 ####  Interface e Layout
 
+- **Textos desalinhados:** Titulo do Texto de descrição dos serviços apresenta desalinhamento e mal posicionamento, dessa forma sendo sobreposto pelo menu de navegação
+- **Cores e Contraste:** Uso mal planejado de cores do formulário, prejudicando a legibilidade e dificultando a indentificação dos campos de entrada.
+
+
 
 
 
