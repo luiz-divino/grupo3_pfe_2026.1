@@ -39,6 +39,10 @@
 
 ### ⚙️ O que fazemos: Problemas identificados
 
+####  Erros de Implementação
+
+
+
 
 
 
