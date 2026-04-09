@@ -33,5 +33,10 @@
 
 #### ⚙️ Funcionalidade e Navegação
 
+- **Links Quebrados (Erro 404):** links estratégicos direcionam para páginas inexistentes, são eles:
+  - _Conversão:_ Botão "Faça sua associação", abaixo da seção Quem Somos.
+  - _Navegação:_ Imagens dos associados fundadores contém links quebrados.
+
+
 
 
