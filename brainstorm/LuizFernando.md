@@ -29,3 +29,6 @@
 
 #### 🎨 Interface e Layout
 
+- **Quebra de Responsividade:** Falhas graves de adaptação em diferentes viewports, desalinhamento de elementos no menu de navegação, erro ao renderizar logo da empresa
+
+
