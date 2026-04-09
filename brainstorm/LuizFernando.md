@@ -37,6 +37,9 @@
   - _Conversão:_ Botão "Faça sua associação", abaixo da seção Quem Somos.
   - _Navegação:_ Imagens dos associados fundadores contém links quebrados.
 
+### ⚙️ O que fazemos: Problemas identificados
+
+
 
 
 
