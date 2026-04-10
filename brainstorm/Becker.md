@@ -9,7 +9,7 @@
 
 ## 1. Análise do Estado Atual
 
-- **PÁGINA:** [https://acbrasil.org.br/cms/](https://acbrasil.org.br/cms/)
+- **PÁGINA:** [https://acbrasil.org.br/cms/]
 
 ### 🏠 Home: Problemas identificados
 
@@ -25,17 +25,13 @@ conteúdo, dificultando que o usuário identifique rapidamente o propósito da a
 #### Funcionalidade e Navegação
 
 - **Links com erro 404:** O botão "Mais artigos" da seção de artigos recentes direciona para página não encontrada.
-- **Botão "Seja um associado":** Redireciona para `/associe-se-a-acb/` sem o prefixo `/cms/`, 
-quebrando a navegação dentro do ambiente CMS.
-- **CTA fraco:** O banner de webinars leva o usuário para fora do site (`/webinar/`) sem 
-nenhum aviso, prejudicando a retenção.
+
+- **CTA fraco:** O banner de webinars direciona o usuário para página não encontrada
 
 #### Responsividade
 
-- **Navbar quebrada em mobile:** O menu de navegação não se adapta corretamente a viewports 
-menores, causando sobreposição de elementos.
-- **Imagens sem dimensões responsivas:** O banner de webinars usa dimensões fixas 
-(800x133px), causando distorção em telas menores.
+- **Navbar quebrada em mobile:** O menu de navegação não se adapta corretamente a mobiles, causando sobreposição de elementos.
+- **Imagens sem dimensões responsivas:** O banner de webinars fica distorcida no mobile, devido as dimensões fixas.
 
 ---
 
@@ -45,6 +41,7 @@ menores, causando sobreposição de elementos.
 
 - **Ausência de elementos visuais:** A página não apresenta fotos, ícones ou ilustrações 
 que reforcem a identidade da associação, tornando o conteúdo pouco atrativo.
+
 - **Texto denso sem formatação:** O texto institucional é apresentado em bloco contínuo, 
 sem uso de subtítulos, bullet points ou destaques.
 
@@ -59,7 +56,7 @@ ou liderança da ACB, reduzindo a credibilidade institucional.
 
 #### Interface e Layout
 
-- **Falta de cards ou seções visuais:** Os serviços/atividades não são apresentados em 
+- **Falta de cards ou seções visuais:** Há dificuldade de compreensão e leitura da seção serviços/atividades, pois não são apresentados em 
 formato de cards, dificultando a leitura e comparação.
 - **Ausência de CTAs claros:** Não há botões de ação convidando o usuário a se engajar 
 com as atividades descritas.
