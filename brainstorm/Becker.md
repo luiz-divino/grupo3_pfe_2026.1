@@ -24,8 +24,7 @@ conteúdo, dificultando que o usuário identifique rapidamente o propósito da a
 
 #### Funcionalidade e Navegação
 
-- **Links com erro 404:** O botão "Mais artigos" da seção de artigos recentes direciona para 
-`/c/artigos/` em vez de `/cms/c/artigos/`, resultando em página não encontrada.
+- **Links com erro 404:** O botão "Mais artigos" da seção de artigos recentes direciona para página não encontrada.
 - **Botão "Seja um associado":** Redireciona para `/associe-se-a-acb/` sem o prefixo `/cms/`, 
 quebrando a navegação dentro do ambiente CMS.
 - **CTA fraco:** O banner de webinars leva o usuário para fora do site (`/webinar/`) sem 
