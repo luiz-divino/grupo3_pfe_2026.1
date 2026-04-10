@@ -58,6 +58,7 @@ ou liderança da ACB, reduzindo a credibilidade institucional.
 
 - **Falta de cards ou seções visuais:** Há dificuldade de compreensão e leitura da seção serviços/atividades, pois não são apresentados em 
 formato de cards, dificultando a leitura e comparação.
+
 - **Ausência de CTAs claros:** Não há botões de ação convidando o usuário a se engajar 
 com as atividades descritas.
 
