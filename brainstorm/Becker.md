@@ -68,24 +68,21 @@ com as atividades descritas.
 
 #### Funcionalidade
 
-- **Ausência de filtros por categoria:** O usuário não consegue filtrar artigos por tema 
-ou data de forma intuitiva.
-- **Paginação pouco visível:** A navegação entre páginas de artigos não é destacada 
-visualmente.
+- **Ausência de filtros por categoria:** O usuário não consegue filtrar artigos por tema ou data de forma intuitiva.
+
+- **Paginação pouco visível:** A navegação entre páginas de artigos não é destacada visualmente.
 
 #### Layout
 
-- **Cards de artigos sem padronização:** Os cards variam em altura e espaçamento, 
-causando inconsistência visual na listagem.
+- **Cards de artigos sem padronização:** Os cards variam em altura e espaçamento, causando inconsistência visual na listagem.
 
 ---
 
-### 📞 Contato: Problemas identificados
+### Contato: Problemas identificados
 
 #### Funcionalidade
 
-- **Formulário sem validação visual:** Não há feedback visual claro ao usuário sobre 
-campos obrigatórios ou erros de preenchimento.
+- **Formulário sem validação visual:** Não há feedback visual claro ao usuário sobre campos obrigatórios ou erros de preenchimento.
 
 ---
 
