@@ -1,5 +1,7 @@
 # Relatório de Análise e Redesign - ACBrasil
 
+### Junção da análise individual dos membros do
+
 ## 1. Problemas Identificados no Site
 
 ### [Geral e Arquitetura](https://acbrasil.org.br/cms/)
@@ -38,6 +40,7 @@
 * **Ausência de Filtros:** O usuário não consegue filtrar publicações por tema ou categoria de forma intuitiva.
 
 ---
+
 ## 2. Pontos de Melhoria para o Site
 
 ### Modernização UI/UX e Acessibilidade
@@ -58,3 +61,38 @@
 * Estruturar o rodapé como um sitemap eficiente, incluindo links rápidos e políticas de privacidade.
 
 ---
+
+## 3. Nova Estrutura Proposta
+
+### Home
+* Hero com headline + CTA.
+* Carrossel com os 5 últimos posts.
+* Agenda de eventos.
+* Widget de cotações em tempo real.
+* Bloco institucional + depoimentos de membros.
+* Feed de redes sociais.
+
+### Blog / Newsletter
+* Editor para membros publicarem artigos.
+* Tags temáticas (Governança, ESG, Compliance, etc.).
+* Newsletter com digest semanal.
+* Moderação antes de publicar.
+* Perfil do autor visível em cada post.
+
+### Bolsa / Cotações
+* API sugerida: Brapi.dev ou Yahoo Finance.
+* Ticker animado no topo + cards com mini gráfico na home.
+* Página dedicada "Mercado".
+* Fallback com última cotação caso a API falhe.
+
+### Associados
+* "Em breve" com form de pré-cadastro.
+* Diretório de membros com perfil e especialização.
+* Conteúdo exclusivo para logados.
+* Painel individual do associado.
+
+### Visual e Identidade
+* **Paleta:** azul escuro, amarelo, cinza e preto.
+* **Tipografia:** Playfair Display + DM Sans.
+* **Tom de Voz:** jornal econômico sóbrio e acessível.
+* **Navegação:** Menu focado em Home, Blog, Eventos, Mercado, Associados, Sobre e Contato.
