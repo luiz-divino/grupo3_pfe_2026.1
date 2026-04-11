@@ -93,4 +93,4 @@
 * **Paleta:** azul escuro, amarelo, cinza e preto.
 * **Tipografia:** Playfair Display + DM Sans.
 * **Tom de Voz:** jornal econômico sóbrio e acessível.
-* **Navegação:** Menu focado em Home, Blog, Eventos, Mercado, Associados, Sobre e Contato.
+* **Navegação:** Menu focado em Home, Blog, Quem somos, Contato, Associe-se e Área de membros .
