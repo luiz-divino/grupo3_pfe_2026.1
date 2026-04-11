@@ -1,52 +1,32 @@
-**Brainwriting — Site ACB**
+# 🧠 Visão geral do site
+A proposta não é só “refazer o site”, mas reposicionar a ACB como uma **plataforma institucional + editorial + relacional**.
+O site passa a operar em três camadas:
 
+1. **Institucional (credibilidade)**
+2. **Conteúdo (autoridade intelectual)**
+3. **Rede (associados e relacionamento)**
 
-**🏠 Home**
-- Hero com headline + CTA
-- Carrossel com os 5 últimos posts
-- Agenda de eventos
-- Widget de cotações em tempo real
-- Bloco institucional + depoimentos de membros
-- Feed de redes sociais
+---
 
+# 🧭 Estrutura do site (reorganizada)
+Menu principal:
+Home · Quem Somos · Eventos · Blog / Newsletter · Mercado · Membros · Contato
 
-**📝 Blog / Newsletter**
-- Editor para membros publicarem artigos
-- Tags temáticas (Governança, ESG, Compliance, etc.)
-- Newsletter com digest semanal
-- Moderação antes de publicar
-- Perfil do autor visível em cada post
+A mudança principal aqui:
 
+* “Associados” vira **“Membros” (mais moderno e abrangente)**
+* “Blog” evolui para **produto editorial (newsletter + artigos)**
+* “Mercado” vira uma área própria (não só widget solto)
 
-**📈 Bolsa / Cotações**
-- API sugerida: Brapi.dev ou Yahoo Finance
-- Ticker animado no topo + cards com mini gráfico na home
-- Página dedicada "Mercado"
-- Fallback com última cotação caso a API falhe
+# 🏠 Home
+A home precisa funcionar como um **hub dinâmico**, não só institucional.
 
+## Hero
+Uma abertura mais estratégica:
 
-**👥 Associados**
-- "Em breve" com form de pré-cadastro
-- Diretório de membros com perfil e especialização
-- Conteúdo exclusivo para logados
-- Painel individual do associado
+* Headline direta (conexão + governança + impacto)
+* Subtexto curto (sem excesso institucional)
+* Dois caminhos claros:
 
-
-**📬 Formulários e E-mails**
-- Form de contato com roteamento por assunto
-- Templates com identidade visual da ACB
-- Confirmação automática ao enviar
-- Inscrição em eventos + newsletter com double opt-in
-
-
-**🎨 Visual**
-- Paleta: azul escuro, amarelo, cinza e preto
-- Logo mantida
-- Tipografia: Playfair Display + DM Sans
-- Referência de tom: jornal econômico sóbrio e acessível
-
-
-**🗂️ Estrutura**
-- Menu: Home · Blog · Eventos · Mercado · Associados · Sobre · Contato
-- Mobile first e responsivo
-- SEO, acessibilidade básica e boa performance
+  * Ver eventos
+  * Explorar conteúdo
