@@ -18,11 +18,38 @@ Minhas observações:
 
 ### Objetivo do Redesign
 
-1. **Modernização UI/UX e Acessibilidade:** Transformar a interface em um ambiente responsivo (Mobile First), intuitivo e acessível, refletindo a seriedade e o profissionalismo da instituição.
-2. **Integração de Eventos e Multimídia:** Dar protagonismo à principal atividade da ACBrasil, destacando eventos diretamente na Homepage para aumentar a retenção.
-3. **Consumo Dinâmico de Conteúdo:** Reestruturar o acervo do blog e newsletters, implementando filtros por categorias e carregamento assíncrono para facilitar a busca por conhecimento técnico.
-4. **Otimização de Conversão:** Posicionar CTAs (Call to Actions) estratégicos para captação de leads e atração fluida de novos conselheiros associados.
-5. **Painel de Dados Financeiros:** Implementar o consumo de dados externos (via API) para exibir indicadores do mercado de capitais e cotações em tempo real, agregando valor diário para os usuários focados em investimentos e governança
+1. **Modernização da Interface com foco em UX, Acessibilidade e Responsividade**
+
+Reestruturar a interface para um padrão Mobile First, acessível e intuitivo, refletindo a seriedade institucional da ACBrasil.
+
+2. **Protagonismo para Eventos e Conteúdo Multimídia**
+
+Trazer para a Homepage o destaque dos eventos, webinars e vídeos, alinhando o portal à principal atividade da instituição.
+
+3. **Consumo Inteligente e Dinâmico do Conteúdo Técnico**
+
+Reorganizar o acervo de artigos e newsletters com:
+
+Filtros por categorias
+Sistema de busca eficiente
+Carregamento assíncrono
+Separação visual clara por tipo de conteúdo
+
+4. **Otimização de Conversão (Captação de Leads e Novos Associados)**
+
+Reposicionar estrategicamente os CTAs ao longo da jornada do usuário, incentivando:
+
+Cadastro em newsletters
+Inscrição em eventos
+Associação à entidade
+
+5. **Painel de Indicadores do Mercado de Capitais (Diferencial Estratégico)**
+
+Implementar um painel dinâmico consumindo dados externos via API para exibir:
+
+Indicadores do mercado
+Cotações em tempo real
+Informações relevantes para profissionais de governança e investimentos
 
 ### Resultado Esperado
 
