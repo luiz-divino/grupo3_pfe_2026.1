@@ -23,3 +23,12 @@ Minhas observações:
 3. **Consumo Dinâmico de Conteúdo:** Reestruturar o acervo do blog e newsletters, implementando filtros por categorias e carregamento assíncrono para facilitar a busca por conhecimento técnico.
 4. **Otimização de Conversão:** Posicionar CTAs (Call to Actions) estratégicos para captação de leads e atração fluida de novos conselheiros associados.
 5. **Painel de Dados Financeiros:** Implementar o consumo de dados externos (via API) para exibir indicadores do mercado de capitais e cotações em tempo real, agregando valor diário para os usuários focados em investimentos e governança
+
+### Resultado Esperado
+
+- Transformar o portal da ACBrasil de um repositório de conteúdo estático em uma plataforma institucional moderna, interativa, estratégica e orientada à experiência do usuário, capaz de:
+
+- Aumentar o tempo de permanência no site
+- Facilitar o consumo do conteúdo técnico
+- Fortalecer a imagem institucional
+- Gerar mais engajamento e conversões
