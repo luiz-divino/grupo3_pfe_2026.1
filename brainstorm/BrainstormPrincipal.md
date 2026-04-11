@@ -38,3 +38,23 @@
 * **Ausência de Filtros:** O usuário não consegue filtrar publicações por tema ou categoria de forma intuitiva.
 
 ---
+## 2. Pontos de Melhoria para o Site
+
+### Modernização UI/UX e Acessibilidade
+* Transformar a interface em um ambiente responsivo (**Mobile First**) e intuitivo.
+* Padronizar os cards de artigos com altura fixa e implementar carregamento assíncrono para consumo dinâmico.
+* Implementar animações e transições suaves nos elementos de hover e scroll.
+* Melhorar a hierarquia visual da Home com seções bem definidas e paleta de cores oficial.
+
+### Funcionalidades e Conteúdo
+* **Integração de Multimídia:** Dar protagonismo a vídeos e eventos diretamente na Homepage.
+* **Painel de Dados Financeiros:** Implementar ticker com cotações da bolsa de valores em tempo real via API.
+* **Otimização de SEO:** Corrigir a semântica HTML e incluir meta descriptions para melhor indexação.
+* **Área de Membros:** Estruturar login com conteúdo exclusivo e diretório de associados.
+
+### Conversão e Contato
+* Posicionar **CTAs estratégicos** em locais de alta visibilidade para captação de leads e novos associados.
+* Adicionar validação e feedback visual nos formulários de contato e inscrição.
+* Estruturar o rodapé como um sitemap eficiente, incluindo links rápidos e políticas de privacidade.
+
+---
