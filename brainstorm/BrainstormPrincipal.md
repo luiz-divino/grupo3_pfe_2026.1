@@ -1,7 +1,5 @@
 # Relatório de Análise e Redesign - ACBrasil
 
-### Junção da análise individual dos membros do
-
 ## 1. Problemas Identificados no Site
 
 ### [Geral e Arquitetura](https://acbrasil.org.br/cms/)
