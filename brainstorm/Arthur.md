@@ -9,12 +9,23 @@ Minhas observações:
 
 ### Problemas identificados
 
-1. **Arquitetura da Informação Confusa** - O feed principal mistura artigos de opinião extensos com informativos institucionais (newsletters) sem nenhuma diferenciação visual clara.
-2. **Paginação Obsoleta (UX Ruim)** - A navegação entre as publicações exige o recarregamento total da página, não aproveitando carregamento assíncrono para uma experiência mais fluida.
-3. **Desperdício de Conteúdo Multimídia** - Os vídeos, videocasts e webinars não estão integrados na página inicial, perdendo um grande potencial de retenção do usuário.
-4. **SEO e Semântica HTML Fracos** - Uso excessivo de tags genéricas (`<div>`) e informações importantes (como autoria e data) inseridas como texto puro, dificultando a indexação orgânica.
-6. **Interface Datada** - O layout não utiliza padrões modernos de UI, como Grid/Cards para organizar o feed, tornando a leitura do painel de notícias densa e cansativa.
-7. **Rodapé (Footer) Mal Aproveitado** - O footer não atua como um mapa do site (*sitemap*) eficiente. Faltam links rápidos bem estruturados, acesso fácil às políticas de privacidade e informações claras de contato direto na base da página.
+1. **Arquitetura da Informação Confusa** 
+O feed principal mistura artigos de opinião extensos com informativos institucionais (newsletters) sem nenhuma diferenciação visual clara.
+
+2. **Paginação Obsoleta (UX Ruim)** 
+A navegação entre as publicações exige o recarregamento total da página, não aproveitando carregamento assíncrono para uma experiência mais fluida.
+
+3. **Desperdício de Conteúdo Multimídia** 
+Os vídeos, videocasts e webinars não estão integrados na página inicial, perdendo um grande potencial de retenção do usuário.
+
+4. **SEO e Semântica HTML Fracos** 
+Uso excessivo de tags genéricas (`<div>`) e informações importantes (como autoria e data) inseridas como texto puro, dificultando a indexação orgânica.
+
+6. **Interface Datada** 
+O layout não utiliza padrões modernos de UI, como Grid/Cards para organizar o feed, tornando a leitura do painel de notícias densa e cansativa.
+
+7. **Rodapé (Footer) Mal Aproveitado** 
+O footer não atua como um mapa do site (*sitemap*) eficiente. Faltam links rápidos bem estruturados, acesso fácil às políticas de privacidade e informações claras de contato direto na base da página.
 
 ### Objetivo do Redesign
 
