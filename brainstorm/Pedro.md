@@ -24,3 +24,12 @@ analisando da perspectiva do usuario (Eu)
 * *Ruído Técnico:* A exibição de termos técnicos e códigos (como os nomes dos menus ) no meio do design passa uma imagem de site "em construção" ou mal acabado.
 
 
+##  Plano de Ação (Melhorias)
+
+1.  *correção de Links:* Revisão imediata de todos os URLs para eliminar erros 404.
+2.  *Reparação do CMS:* Corrigir a execução dos componentes de newsletter e contatos.
+3.  *Refatoração da Responsividade:* Ajustar os breakpoints para garantir que o site é "Mobile First" e fluido em qualquer tela.
+4.  *Ajuste de UI/UX:*
+    * Recalibrar o contraste dos formulários.
+    * Corrigir as margens e paddings para evitar sobreposição de elementos.
+    * Garantir que o menu mobile só aparece quando necessário.
