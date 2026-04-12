@@ -5,3 +5,7 @@
 * *Integridade de Rotas (Erro 404):* Existem falhas críticas de endereçamento em botões de conversão e navegação (Webinars, Mais Artigos, Seção de Associados e Imagens de Fundadores).
 * *Conflitos de CSS e Z-Index:* Elementos no canto inferior direito apresentam sobreposição. No separador "O Que Fazemos", o menu de navegação está sobrepondo os títulos das seções por falta de ajuste.
 * *Lógica de Exibição do Menu:* A string de classe/ID menu-associado está sendo impressa no documento em resoluções de desktop, quando deveria apareceer apenas no breakpoint mobile.
+
+### 2. Infraestrutura e Responsividade
+* *Breakpoints Inconsistentes:* O layout apresenta quebra lateral e desalinhamento em diferentes resoluções.
+* *Assets Quebrados:* Erro na renderização do logótipo institucional na página "Quem Somos".
