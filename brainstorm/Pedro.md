@@ -19,3 +19,8 @@ analisando da perspectiva do usuario (Eu)
 * *Problemas de Contraste e Legibilidade:* Nos formulários (Contacto e O Que Fazemos), a paleta de cores dificulta a identificação dos campos de input, tornando o preenchimento cansativo e pouco intuitivo.
 * *Poluição Visual e Hierarquia:* A sobreposição de componentes e o desalinhamento de títulos criam um ruído visual que impede uma leitura fluida da proposta de valor da ACB.
 * *Interface Mobile Instável:* O menu hambúrguer e a adaptação para telas pequenas estão inconsistentes, dificultando o acesso à informação via smartphone.
+
+### 2. Estética e Profissionalismo
+* *Ruído Técnico:* A exibição de termos técnicos e códigos (como os nomes dos menus ) no meio do design passa uma imagem de site "em construção" ou mal acabado.
+
+
