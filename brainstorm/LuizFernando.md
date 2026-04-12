@@ -48,6 +48,14 @@
 
 ####  Interface e Layout
 
+- **Cores e Contraste:** Uso mal planejado de cores do formulário, prejudicando a legibilidade e dificultando a indentificação dos campos de entrada.
+
+####  Erros de Implementação
+
+- **Falha de Renderização:** Exibição de texto estatico `[acb-contatos]` abaixo do titulo Contato, dessa forma, não apresentando nenhuma funcionalidade.
+
+
+
 
 
 
