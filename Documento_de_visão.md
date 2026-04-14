@@ -1,33 +1,33 @@
-# **Documento de visão**
+# **Documento de Visão**
 
 ## 1. Introdução
 
 ### Objetivo do documento
 
-Este documento tem como objetivo descrever a visão do novo site da ACB Brasil, alinhando a equipe de desenvolvimento e os stakeholders quanto às funcionalidades, estrutura e objetivos do sistema.
+Este documento descreve a visão do site da ACB Brasil, alinhando equipe de desenvolvimento e stakeholders quanto à **estrutura de navegação, proposta de valor e funcionalidades** do sistema.
 
 ---
 
 ### Público-alvo
 
-- Equipe de desenvolvimento (Grupo 3)
-- ACB Brasil (cliente)
-- Professores avaliadores
+* Equipe de desenvolvimento (Grupo 3)
+* ACB Brasil (cliente)
+* Professores avaliadores
 
 ---
 
 ### Escopo do sistema
 
-O sistema consiste na reformulação do site institucional da ACB Brasil, incluindo:
+O sistema consiste na reformulação do site institucional da ACB Brasil, com foco em:
 
-- Nova estrutura de navegação
-- Modernização do design (UI/UX)
-- Implementação de blog estilo newsletter
-- Área de associados com login
-- Integração com API da bolsa de valores
-- Reformulação dos formulários
+* Arquitetura de informação centrada em valor
+* Modernização de UI/UX
+* Estrutura editorial (blog + newsletter)
+* Área de membros com autenticação
+* Integração com dados financeiros
+* Otimização de conversão (associar-se / contato)
 
-O acesso será via navegador (web), com suporte a desktop e dispositivos móveis.
+A plataforma será acessível via navegador (desktop e mobile).
 
 ---
 
@@ -35,7 +35,7 @@ O acesso será via navegador (web), com suporte a desktop e dispositivos móveis
 
 ### Oportunidade de mercado
 
-A ACB necessita de uma presença digital mais moderna e funcional, que permita centralizar conteúdo, melhorar a comunicação e dar visibilidade aos seus associados.
+A ACB necessita consolidar sua presença digital como **hub de conteúdo, networking e inteligência de mercado**, aumentando engajamento e percepção de valor institucional.
 
 ---
 
@@ -43,91 +43,132 @@ A ACB necessita de uma presença digital mais moderna e funcional, que permita c
 
 O site atual apresenta:
 
-- Estrutura desorganizada
-- Design desatualizado
-- Falta de funcionalidades modernas
-- Formulários ineficientes
+* Navegação pouco orientada a objetivos
+* Baixa clareza de proposta de valor
+* Falta de hierarquia de conteúdo
+* Experiência pouco otimizada para conversão
 
 ---
 
 ### Proposta de solução
 
-Desenvolver um novo site com:
+Desenvolver um site estruturado em torno de **jornadas do usuário**, com:
 
-- Estrutura clara e organizada
-- Interface moderna e responsiva
-- Blog colaborativo
-- Área de membros
-- Integração com dados financeiros em tempo real
-
----
-
-## 3. Descrição dos Stakeholders e Usuários
-
-### Quem são os envolvidos?
-
-- ACB Brasil (cliente)
-- Equipe de desenvolvimento (Grupo 3)
+* Comunicação clara de valor logo na entrada (Hero)
+* Conteúdo como ativo estratégico (blog + newsletter)
+* Área de membros como núcleo de valor
+* Integração com dados de mercado
+* CTAs bem definidos ao longo da navegação
 
 ---
 
-### Quais são suas necessidades e expectativas?
+## 3. Stakeholders e Usuários
+
+### Envolvidos
+
+* ACB Brasil (cliente)
+* Equipe de desenvolvimento
+
+---
+
+### Necessidades e expectativas
 
 **ACB:**
 
-- Site moderno e profissional
-- Melhor comunicação com o público
-- Divulgação dos associados
+* Posicionamento institucional forte
+* Canal de comunicação ativo
+* Aumento de associados
+* Visibilidade dos membros
 
 **Usuários visitantes:**
 
-- Acesso fácil a informações
-- Visualização de notícias e eventos
+* Entendimento rápido da proposta
+* Acesso a conteúdo relevante
+* Facilidade de navegação
 
 **Associados:**
 
-- Perfil próprio
-- Possibilidade de publicar conteúdo
-- Acesso à área restrita
+* Área exclusiva
+* Benefícios claros
+* Participação (conteúdo e networking)
 
 ---
 
 ## 4. Visão Geral do Produto
 
-### Principais funcionalidades
+### Estrutura do site
 
-- **Home**
-    - Carrossel com últimos posts
-    - Notícias recentes
-    - Próximos eventos
-    - Newsletter
-    - Preview da bolsa
-- **Blog**
-    - Lista de posts
-    - Página do post
-    - Conteúdo publicado por associados
-- **Eventos**
-    - Lista de eventos
-    - Página de evento
-- **Associados**
-    - Lista de associados
-    - Perfil do associado
-    - Painel do membro (login e edição)
-- **Bolsa de valores**
-    - Integração com API
-    - Dados em tempo real
-- **Contato**
-    - Formulário com envio por email
-    - Redes sociais
+#### **1. Home**
+
+* Hero (proposta de valor clara)
+* Destaque da semana (evento principal)
+* Próximos eventos
+* Blog & Newsletter (preview)
+* Mercado (dados financeiros em tempo real)
+* Associação (reforço institucional + CTA)
 
 ---
 
-### Diferenciais em relação a soluções existentes
+#### **2. Quem Somos**
 
-- Integração com dados da bolsa em tempo real
-- Plataforma colaborativa (associados publicam conteúdo)
-- Estrutura moderna e organizada
-- Melhor experiência do usuário (UX)
+* Institucional
+* Prova social (credibilidade)
+* Pilares da organização
+* Linha do tempo
+* Estrutura organizacional
+* CTA: “Quero me associar”
+
+---
+
+#### **3. Blog**
+
+* Hero editorial
+* Destaque da semana
+* Categorias de conteúdo
+* Feed de publicações
+* Newsletter como produto central
+* CTA: “Assinar”
+
+---
+
+#### **4. Membros**
+
+* Login / autenticação
+* Proposta de valor da associação
+* Benefícios
+* Preview da área interna
+* CTA: “Entrar” / “Associar-se”
+
+---
+
+#### **5. Contato**
+
+* Canais de atendimento
+* Formulário otimizado
+* SLA / tempo de resposta
+* FAQ simplificado
+* CTA: “Enviar mensagem”
+
+---
+
+### Principais funcionalidades
+
+* Sistema de autenticação de membros
+* Gestão de conteúdo (blog/newsletter)
+* Exibição e organização de eventos
+* Integração com API da bolsa (dados de mercado)
+* Formulários com envio por email
+* Estrutura de CTAs orientada à conversão
+
+---
+
+### Diferenciais
+
+* Arquitetura orientada à jornada do usuário
+* Conteúdo como produto (newsletter estratégica)
+* Integração com dados financeiros em tempo real
+* Clareza de proposta de valor em múltiplos pontos
+* Estrutura preparada para crescimento
 
 ---
 
@@ -135,23 +176,23 @@ Desenvolver um novo site com:
 
 ### Funcionais
 
-- Cadastro de usuários (associados)
-- Autenticação (login e senha)
-- Gerenciamento de conteúdo (blog)
-- Exibição de eventos
-- Integração com API da bolsa de valores
-- Envio de formulários por email
+* Cadastro e autenticação de usuários
+* Área restrita para membros
+* Publicação e gestão de conteúdo
+* Listagem e detalhamento de eventos
+* Integração com API de mercado financeiro
+* Envio de mensagens via formulário
 
 ---
 
 ### Não Funcionais
 
-- **Desempenho:** páginas devem carregar rapidamente
-- **Responsividade:** funcionamento em desktop e mobile
-- **Usabilidade:** interface clara e intuitiva
-- **Compatibilidade:** navegadores modernos (Chrome, Firefox, Edge)
-- **Disponibilidade:** sistema acessível continuamente
-- **Acessibilidade:** boas práticas básicas de acessibilidade
+* **Desempenho:** carregamento rápido
+* **Responsividade:** mobile-first
+* **Usabilidade:** navegação intuitiva
+* **Compatibilidade:** navegadores modernos
+* **Disponibilidade:** acesso contínuo
+* **Acessibilidade:** boas práticas (WCAG básicas)
 
 ---
 
@@ -159,20 +200,21 @@ Desenvolver um novo site com:
 
 ### Restrições
 
-- Desenvolvimento focado em front-end web
-- Dependência de API externa (bolsa de valores)
-- Tempo limitado de projeto
+* Foco em desenvolvimento front-end
+* Dependência de API externa
+* Tempo limitado
 
 ---
 
 ### Premissas
 
-- Logo será mantida
-- Paleta de cores definida:
-    - Cinza
-    - Amarelo
-    - Azul escuro
-    - Preto
+* Identidade visual mantida (logo)
+* Paleta definida:
+
+  * Cinza
+  * Amarelo
+  * Azul escuro
+  * Preto
 
 ---
 
@@ -180,20 +222,20 @@ Desenvolver um novo site com:
 
 ### Riscos
 
-- Dificuldade na integração com API
-- Complexidade da área de membros
-- Problemas no envio de formulários
+* Integração com API de mercado
+* Complexidade da área de membros
+* Falhas em formulários / comunicação
 
 ---
 
 ### Dependências
 
-- Disponibilidade da API da bolsa
-- Definição do design no Figma
-- Organização e execução da equipe
+* Disponibilidade da API
+* Definições de design no Figma
+* Organização da equipe
 
 ---
 
 ## 📌 Conclusão
 
-Este documento define a visão do novo site da ACB Brasil, servindo como guia para o desenvolvimento e garantindo alinhamento entre os envolvidos no projeto.
+Este documento define a visão do site da ACB Brasil, estabelecendo uma estrutura **orientada a valor, conteúdo e conversão**, garantindo alinhamento entre os envolvidos e direcionamento claro para o desenvolvimento.
