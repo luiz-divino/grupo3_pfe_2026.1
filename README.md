@@ -17,7 +17,7 @@ João Pedro Parente, Vinicius Lima, Arthur Calebe, Pedro Becker, Pedro Soares, A
 | 5w2h/ | Framework de planejamento respondendo 7 perguntas fundamentais (O quê, Por quê, Onde, Quando, Quem, Como, Quanto) |
 | brainstorm/ |  análises individuais dos integrantes + BrainstormPrincipal.md (síntese coletiva com problemas e soluções propostas) |
 | mindmap/ | Mapa mental visual com blocos principais do projeto |
-| prototipoFigma/ | Prototipagem visual (desktop e mobile) + documentação sobre o propósito |
+| prototipoFigma/ | Prototipagem visual (desktop) + documentação sobre o propósito |
 | scrum_meetings/ | Histórico de 5 reuniões com decisões tomadas em cada etapa |
 
 ---
